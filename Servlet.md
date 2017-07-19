@@ -1,7 +1,7 @@
-#Servlet 
+# Servlet 
 
 
-##1.Html page
+## 1.Html page
 ####
 ```
  <html>
@@ -38,7 +38,7 @@ Location  :<input type="text" name="location"></br>
 ```
 ![Screen shot](https://github.com/AjithkumarP/Ak/blob/master/Screenshot%20(4).png?raw=true))
 
-##2.Servlet Code
+## 2.Servlet Code
 
 ####
 ```
